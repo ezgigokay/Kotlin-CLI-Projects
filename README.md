@@ -1,4 +1,4 @@
-# 🖥️ Kotlin Console Apps
+# Kotlin Console Apps
 
 Two small command-line applications written in Kotlin, demonstrating core programming concepts including OOP, data classes, collections, loops, conditions, and file I/O.
 
@@ -6,7 +6,7 @@ Two small command-line applications written in Kotlin, demonstrating core progra
 
 ## Projects
 
-### 1. 📝 Task Manager
+### 1. Task Manager
 
 A console-based task management app with persistent file storage.
 
@@ -29,7 +29,7 @@ cli/TaskCli.kt         → CLI adapter (reads input, calls TaskManager, prints o
 
 ---
 
-### 2. 📚 Smart Library
+### 2. Smart Library
 
 A console-based library management system for books, members, and loan records.
 
